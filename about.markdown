@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O nás
+title: O naší firmě
 permalink: "/o-nas/"
 
 ---
