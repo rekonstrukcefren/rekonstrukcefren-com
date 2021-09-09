@@ -1,8 +1,7 @@
 ---
 layout: page
-title: galerie realizací
+title: o nás
 permalink: "/o-nas/"
 
 ---
-
-Jsme stavební firma z Frenštátu
+![](/uploads/collage_fo.jpg)
