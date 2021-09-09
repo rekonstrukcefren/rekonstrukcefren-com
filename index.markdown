@@ -1,8 +1,17 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
----
 
-# Vítejte na našem webu....
+---
+# Vítejte na našem webu ....
+
+Podlahy
+
+Věnujeme se pokládce, renovaci a přípravě podkladů podlah.
+
+Obklady a dlažby
+
+obkládáme veškerý sortiment obkladového materiálu včetně schodů, koupelen a přípravy pro kuchyňské linky.
+
+Omítky
+
+točené štuky, dekorativní stěrky, sádrové a hliněné omítky
