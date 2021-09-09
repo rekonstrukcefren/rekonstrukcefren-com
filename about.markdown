@@ -1,9 +1,8 @@
 ---
 layout: page
-title: O naší firmě
+title: galerie realizací
 permalink: "/o-nas/"
 
 ---
-# O nás...
 
-Jsme stavební firma z Frenštátu pod Radhoštěm...
+Jsme stavební firma z Frenštátu
