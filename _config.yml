@@ -18,10 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rekonstrukce Fren 
+title: Rekonstrukce Frenštát - návrhy a realizace interiérů 
 email: gardelkatomas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nabízíme rekonstrukce domů a bytů
+  tel. 608 028 900  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rekonstrukcefren.com" # the base hostname & protocol for your site, e.g. http://example.com
 
